@@ -3,7 +3,7 @@
   <h1 align="center">SoundBoardio plugin: Daniel Steigerwald</h1>
 </p>
 
-> A plugin for [SoundBoardio.com](https://soundboardio.com)
+> A plugin for [Soundboard](https://soundboardio.com/app/adamsir/steida/)
 
 ## License
 
