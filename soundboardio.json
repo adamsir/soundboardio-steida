@@ -1,0 +1,284 @@
+{
+  "name": "SQL nezmizí",
+  "shortName": "Daniel Steigerwald",
+  "description": "Prostě",
+  "color": "#0f0640",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Adam",
+    "url": ""
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Zkurvenej algoritmus",
+      "filename": "zkurvenej-algoritmus.wav"
+    },
+    {
+      "name": "Zvraceni",
+      "filename": "zvraceni.wav"
+    },
+    {
+      "name": "Zoufalej",
+      "filename": "zoufalej.wav"
+    },
+    {
+      "name": "Zivotni moudro",
+      "filename": "zivotni-moudro.wav"
+    },
+    {
+      "name": "Zajima vas to",
+      "filename": "zajima-vas-to.wav"
+    },
+    {
+      "name": "Vymluvy",
+      "filename": "vymluvy.wav"
+    },
+    {
+      "name": "Vsechno vyreseny",
+      "filename": "vsechno-vyreseny.wav"
+    },
+    {
+      "name": "Uz fakt koncim",
+      "filename": "uz-fakt-koncim.wav"
+    },
+    {
+      "name": "Trosku me to sere",
+      "filename": "trosku-me-to-sere.wav"
+    },
+    {
+      "name": "To je vono",
+      "filename": "to-je-vono.wav"
+    },
+    {
+      "name": "To je hodne kurva",
+      "filename": "to-je-hodne-kurva.wav"
+    },
+    {
+      "name": "Tisic radku kodu",
+      "filename": "tisic-radku-kodu.wav"
+    },
+    {
+      "name": "Strasne rychle",
+      "filename": "strasne-rychle.wav"
+    },
+    {
+      "name": "Strasne jednoduchy",
+      "filename": "strasne-jednoduchy.wav"
+    },
+    {
+      "name": "Sql sql sql",
+      "filename": "sql-sql-sql.wav"
+    },
+    {
+      "name": "Sql lite",
+      "filename": "sql-lite.wav"
+    },
+    {
+      "name": "Sql je dobry meh",
+      "filename": "sql-je-dobry-meh.wav"
+    },
+    {
+      "name": "Skutecna databaze",
+      "filename": "skutecna-databaze.wav"
+    },
+    {
+      "name": "Sifrovani",
+      "filename": "sifrovani.wav"
+    },
+    {
+      "name": "Sifrovani s premyslenim",
+      "filename": "sifrovani-s-premyslenim.wav"
+    },
+    {
+      "name": "Proste balancovat",
+      "filename": "proste-balancovat.wav"
+    },
+    {
+      "name": "Proslo to",
+      "filename": "proslo-to.wav"
+    },
+    {
+      "name": "Promo",
+      "filename": "promo.wav"
+    },
+    {
+      "name": "Postgres",
+      "filename": "postgres.wav"
+    },
+    {
+      "name": "Posledni",
+      "filename": "posledni.wav"
+    },
+    {
+      "name": "Pomaly",
+      "filename": "pomaly.wav"
+    },
+    {
+      "name": "Pomaly drahy",
+      "filename": "pomaly-drahy.wav"
+    },
+    {
+      "name": "Palilo skalovani",
+      "filename": "palilo-skalovani.wav"
+    },
+    {
+      "name": "Nikdy sem to nerek",
+      "filename": "nikdy-sem-to-nerek.wav"
+    },
+    {
+      "name": "Nevymyslel sam",
+      "filename": "nevymyslel-sam.wav"
+    },
+    {
+      "name": "Nevim vubec nic proste",
+      "filename": "nevim-vubec-nic-proste.wav"
+    },
+    {
+      "name": "Neni to napsany jenom pro react",
+      "filename": "neni-to-napsany-jenom-pro-react.wav"
+    },
+    {
+      "name": "Nemaj sql",
+      "filename": "nemaj-sql.wav"
+    },
+    {
+      "name": "Naserete hrozne moc",
+      "filename": "naserete-hrozne-moc.wav"
+    },
+    {
+      "name": "Napsal v sql",
+      "filename": "napsal-v-sql.wav"
+    },
+    {
+      "name": "Nakej b neco",
+      "filename": "nakej-b-neco.wav"
+    },
+    {
+      "name": "Mergovat bez konfliktu",
+      "filename": "mergovat-bez-konfliktu.wav"
+    },
+    {
+      "name": "Masturbace",
+      "filename": "masturbace.wav"
+    },
+    {
+      "name": "Longstory short",
+      "filename": "longstory-short.wav"
+    },
+    {
+      "name": "Local storage",
+      "filename": "local-storage.wav"
+    },
+    {
+      "name": "Konec bude",
+      "filename": "konec-bude.wav"
+    },
+    {
+      "name": "Jste offline",
+      "filename": "jste-offline.wav"
+    },
+    {
+      "name": "Jo",
+      "filename": "jo.wav"
+    },
+    {
+      "name": "Je to vsechno zasifrovany",
+      "filename": "je-to-vsechno-zasifrovany.wav"
+    },
+    {
+      "name": "Jakoby dobry proste",
+      "filename": "jakoby-dobry-proste.wav"
+    },
+    {
+      "name": "Ja sem udelal framework",
+      "filename": "ja-sem-udelal-framework.wav"
+    },
+    {
+      "name": "Hroznej oser",
+      "filename": "hroznej-oser.wav"
+    },
+    {
+      "name": "Hrozne premejslel",
+      "filename": "hrozne-premejslel.wav"
+    },
+    {
+      "name": "Halucinace",
+      "filename": "halucinace.wav"
+    },
+    {
+      "name": "Frame layeru",
+      "filename": "frame-layeru.wav"
+    },
+    {
+      "name": "Dva sety",
+      "filename": "dva-sety.wav"
+    },
+    {
+      "name": "Db a tak dale",
+      "filename": "db-a-tak-dale.wav"
+    },
+    {
+      "name": "Dat like",
+      "filename": "dat-like.wav"
+    },
+    {
+      "name": "Coz je super",
+      "filename": "coz-je-super.wav"
+    },
+    {
+      "name": "Co to b znamena",
+      "filename": "co-to-b-znamena.wav"
+    },
+    {
+      "name": "Co na ty vysoky skole proste delate",
+      "filename": "co-na-ty-vysoky-skole-proste-delate.wav"
+    },
+    {
+      "name": "Co myslite ze jsem delal",
+      "filename": "co-myslite-ze-jsem-delal.wav"
+    },
+    {
+      "name": "Chrchol",
+      "filename": "chrchol.wav"
+    },
+    {
+      "name": "Chatgpt",
+      "filename": "chatgpt.wav"
+    },
+    {
+      "name": "Centralni databaze",
+      "filename": "centralni-databaze.wav"
+    },
+    {
+      "name": "By ste se z toho poblili proste",
+      "filename": "by-ste-se-z-toho-poblili-proste.wav"
+    },
+    {
+      "name": "Bubububu",
+      "filename": "bubububu.wav"
+    },
+    {
+      "name": "Beatbox",
+      "filename": "beatbox.wav"
+    },
+    {
+      "name": "Ahh",
+      "filename": "ahh.wav"
+    }
+  ]
+}
